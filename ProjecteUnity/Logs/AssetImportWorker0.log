@@ -203,3 +203,11 @@ Received Import Request.
 Start importing Assets/hola using Guid(fedcb19af1b5b4f08a6c2ebb2b917d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8721f2673a9c60373e88014a3d2785f9') in 0.034749 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 236.431105 seconds.
+  path: Assets/pol
+  artifactKey: Guid(1aeb12084274f4487bfac1ace17297bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pol using Guid(1aeb12084274f4487bfac1ace17297bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dcbed9440d59ec03e028ae606624e56') in 0.001275 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
